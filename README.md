@@ -16,3 +16,5 @@
 仓库已包含 GitHub Actions Pages 部署工作流。首次使用时，请在仓库 **Settings → Pages → Build and deployment** 中将 Source 设为 **GitHub Actions**。随后推送到 `main` 分支即可触发部署。
 
 站点地址：<https://shuichuiiii.github.io/Docsify/>
+
+原来这么简单
